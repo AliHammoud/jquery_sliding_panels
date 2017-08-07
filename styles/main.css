@@ -1,0 +1,44 @@
+body {
+    
+    background-color: black;
+    height: 100vh;
+    
+}
+
+a:hover {
+    
+    color: white;
+    text-decoration:line-through;
+    
+}
+
+.o {
+    
+    outline: solid 1px;
+    
+}
+
+#items {
+    
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#item_title {
+    
+    color: white;
+    font-size: 32pt;
+    
+}
+
+.popup_controls {
+    
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.popup_controls {
+    
+}
